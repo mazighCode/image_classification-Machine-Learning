@@ -1,0 +1,6 @@
+1- D'abord vous devez executer main.py
+Ce programme permet de faire un apprentissage au modele et le sauvegarde dans le fichier "model.pkl"
+Il y a un code a l'interieur du fichier "main.py" que vous pouvez decommenter pour lancer le test de validation croisee
+
+2- Apres vous devez executer test.py qui vous permet de recuperer le modele et imprime un fichier
+texte de predictions dans le repertoire "result"
